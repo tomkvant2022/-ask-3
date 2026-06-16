@@ -1,0 +1,6 @@
+{
+  "name": "Tourism Database Designer",
+  "description": "Interactive database schema designer, SQL script generator, and functional sandbox for a Tourism database schema with references and tour bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
